@@ -1,0 +1,15 @@
+# The following parameters are arguments for the LegacyScrobbler constructor.
+# See https://github.com/jlieth/legacy-scrobbler for more info.
+
+# arbitrary name
+service_name: lastfm
+
+# username for that service
+username: foo
+
+# md5 hash of your password (obtained via `echo -n password | md5sum`)
+hashed_password: abc123492abccf4f1997f7ccaabc123b
+
+# Handshake URL. You'd have to ask your scrobbling service for this.
+handshake_url: https://example.com/handshake.php
+
