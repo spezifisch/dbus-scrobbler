@@ -7,7 +7,7 @@ Supported are audio players with an MPRIS2 interface such as Clementine or Audac
 ## Dependencies
 
 * python >= 3.5
-* pypoetry (`pip install poetry` or `apt install python3-poetry`)
+* pypoetry (`pip install poetry`)
 * the rest will be installed in a virtualenv via poetry
 
 ## Installation
